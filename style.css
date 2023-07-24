@@ -21,6 +21,7 @@ body {
     height: 100vh;
     width: 100%;
     position: absolute;
+    user-select: none;
 }
 #cont{
     width: 100%;
